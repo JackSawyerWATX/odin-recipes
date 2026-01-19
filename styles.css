@@ -1,0 +1,71 @@
+* {
+
+    background-color: bisque;
+}
+
+.heading {
+    background-color: burlywood;
+    color: darkgreen;
+    text-shadow: 5px;
+}
+
+.list {
+    background: darkgreen;
+    padding: 20px;
+    margin: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    width: 300px;
+}
+
+.home {
+    background-color: burlywood;
+    color: darkgreen;
+    padding: 3px;
+}
+
+.description {
+    background-color: burlywood;
+    color: darkgreen;
+    text-shadow: 5px;
+}
+
+.description-text {
+    color: darkgreen;
+}
+
+.ingredients {
+    background-color: burlywood;
+    color: darkgreen;
+}
+
+.ingredient {
+    color: darkgreen;
+}
+
+.directions {
+    background-color: burlywood;
+    color: darkgreen;
+}
+
+.direction {
+    color: darkgreen;
+    margin: 3px;
+}
+
+li {
+    margin: 3px;
+}
